@@ -1,4 +1,4 @@
 # dkp-demo
 This is my first Git Repository.
 <br>
-Author -Dhru Kumar (DKP) 
+Author -Dhru Kumar Pandit(Coder)
